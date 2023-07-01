@@ -5,7 +5,7 @@ import logo from '../assets/rc.jpg';
 
 const Hero = () => {
   const handleWhatsAppClick = () => {
-    const phoneNumber = '+919790930403';
+    const phoneNumber = '+916369684049';
     const message = 'Hello, I would like to get in touch about a car!';
     const url = `https://api.whatsapp.com/send?phone=${encodeURIComponent(
       phoneNumber
